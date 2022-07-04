@@ -1,0 +1,45 @@
+body{
+    background-image: linear-gradient(to bottom, #61fdef, #00e9fb, #00d3ff, #00baff, #009eff, #578df9, #817aec, #a263d8, #ce55be, #ea4d9f, #f9507e, #fb5f5f);
+    height: 950px;
+}
+.titulo{
+    text-align: center;
+}
+.container{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    text-align: center;
+}
+.nombre{
+    
+    
+}
+.container2{
+    
+    
+}
+.uno{
+    display: flex;
+    margin: 20px 10px;
+    justify-content: space-between;
+}
+input{
+    text-align: center;
+}
+.box1{
+    background-color: rgb(56, 179, 179);
+    width: 400px;
+    height: 300px;
+    border: 1px solid black;
+}
+.box2{
+    background-color: rgb(56, 179, 179);
+    width: 400px;
+    height: 300px;
+    border: 1px solid black;
+}
+.batt{
+    margin: 10px;
+    text-align: center;
+}
